@@ -66,6 +66,7 @@ module.exports = {
         aspects: ['invalidHref', 'preferButton'],
       },
     ],
+    'react/require-default-props': 'off',
     'no-nested-ternary': 'off',
     'import/prefer-default-export': 'off',
   },
